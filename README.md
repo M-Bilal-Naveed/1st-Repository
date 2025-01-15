@@ -1,2 +1,3 @@
 # 1st-Repository
-my 1st GitHub Repository
+My 1st GitHub Repository
+Author: Bilal Naveed
